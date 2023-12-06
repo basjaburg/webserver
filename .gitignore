@@ -1,3 +1,7 @@
+# customers folder containing all local vector databases
+customers/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
